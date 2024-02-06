@@ -17,9 +17,6 @@ Manage your music collection effortlessly with our Album Management System. This
 ✨ Key Features
 ------------
 - **CRUD Operations:** Perform Create, Read, Update, and Delete operations on albums, allowing users to manage their music collection efficiently.
-- **User Authentication:** Secure user authentication system ensures data privacy and user-specific functionalities.
-- **Responsive Design:** Built with a responsive layout to provide a consistent user experience across various devices.
-- **Error Handling:** Comprehensive error handling ensures smooth operation and provides helpful feedback to users.
 
 🛠️ Technologies Used
 -----------------
@@ -27,6 +24,4 @@ Manage your music collection effortlessly with our Album Management System. This
 - **Express:** Handling server-side logic and API endpoints for communication between the frontend and backend.
 - **Node.js:** Running JavaScript on the server-side for backend operations and logic.
 - **MySQL:** Storing and managing album data with a relational database management system.
-- **Tailwind CSS:** Styling the application for a modern and visually appealing user interface.
-- **JWT:** Implementing JSON Web Tokens for secure authentication and authorization.
 - **Axios:** Handling HTTP requests between the client and server for seamless data exchange.
